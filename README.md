@@ -15,6 +15,8 @@
 
 https://bit.ly/feedback-mlsa
 
+(*Note Certificates Will be provided to you all in above Certificates folder so & It will be done in before 28th November 20)
+
 ## Event Details 
 
 ```Introduction to Git and GitHub```
