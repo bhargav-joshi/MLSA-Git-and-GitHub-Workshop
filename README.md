@@ -4,10 +4,16 @@
 
 <div>
 
-<img src="https://badges.pufler.dev/contributors/bhargav-joshi/LearnFree/?size=150&padding=5&bots=true" align="left">  
-<img src="https://badges.pufler.dev/contributors/jyotibalodhi/jyotibalodhi.github.io/?size=150&padding=5&bots=true">
+<img src="https://badges.pufler.dev/contributors/bhargav-joshi/LearnFree/?size=100&padding=5&bots=true" align="left">  
+<img src="https://badges.pufler.dev/contributors/jyotibalodhi/jyotibalodhi.github.io/?size=100&padding=5&bots=true">
 
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/capturingeye/"><b>Bhargav Joshi</b></a> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;<a href="https://www.linkedin.com/in/jyoti-balodhi-88740414b"><b>Jyoti Balodhi</b> </a>
+
+# FeedBack form
+
+**Fill The form to get the certificate**
+
+https://bit.ly/feedback-mlsa
 
 ## Event Details 
 
